@@ -38,6 +38,7 @@ $sortHighLow.addEventListener('click', (e) => {
 
     })
     displayProducts(sortProductsArr)
+    isPopup()
 })
 
 
